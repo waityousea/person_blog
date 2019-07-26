@@ -22,6 +22,7 @@
       <sourceFolder url="file://$MODULE_DIR$/media/images" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/gallery/migrations" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/blog/migrations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/blog/templates" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
