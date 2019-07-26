@@ -7,7 +7,14 @@
 <body>
 <h1>这是主页</h1>
 {% for gallery in gallerys.all %}
-{{ gallery.description }}
+    <table width="" >
+    <tr>
+    <tr>{{ gallery.description }}</tr>
+    <td><img src="{{ gallery.image.url }}" width="300" height="500"></td>
+    </tr>
+
+    </table>
 {% endfor %}
+
 </body>
 </html>
